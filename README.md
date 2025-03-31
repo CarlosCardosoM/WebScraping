@@ -11,13 +11,17 @@ Limpeza de arquivos temporários após a execução.
 ## Estrutura do Projeto
 O projeto é dividido em quatro classes principais:
 
-### CompactadorZIP: Responsável pela compactação dos arquivos PDF em um arquivo ZIP.
+### CompactadorZIP:
+Responsável pela compactação dos arquivos PDF em um arquivo ZIP.
 
-## GerenciadorDownloads: Gerencia o processo de download dos arquivos PDF a partir de um URL.
+## GerenciadorDownloads:
+Gerencia o processo de download dos arquivos PDF a partir de um URL.
 
-## GerenciadorArquivos: Utilitário para criação de diretórios e limpeza de arquivos temporários.
+## GerenciadorArquivos:
+Utilitário para criação de diretórios e limpeza de arquivos temporários.
 
-## Main: Classe principal que executa o processo de download e compactação.
+## Main:
+Classe principal que executa o processo de download e compactação.
 
 ## Dependências
 Este projeto utiliza a biblioteca Jsoup para fazer o scraping do site e coletar os links dos arquivos PDF.
