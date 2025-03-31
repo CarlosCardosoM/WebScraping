@@ -1,7 +1,7 @@
-Gerenciador de Downloads e Compactação ZIP
+#Gerenciador de Downloads e Compactação ZIP
 Este projeto tem como objetivo baixar arquivos PDF de um site especificado, compactá-los em um arquivo ZIP e limpar os arquivos temporários criados durante o processo.
 
-Funcionalidades
+##Funcionalidades
 Baixar anexos PDF de uma página web.
 
 Compactar arquivos em um único arquivo ZIP.
